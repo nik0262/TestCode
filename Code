@@ -1,0 +1,84 @@
+<html>
+<head>
+    <title>
+        Online Shopping Application
+    </title>
+</head>
+<body>
+    <style>
+        h1{
+            text-align:center;
+            font-size: 10 px;
+
+        }
+        h3{
+            text-align:left;
+
+        }
+
+        .first{
+
+            background-color:aqua;
+            text-align:center;
+            color:white;
+            flex:90px;
+            
+        }
+        button{
+             color:black;
+        }
+
+        .second{
+             text-align:center;
+        }
+
+        .Image1{
+            text-align:left;
+            height:200px;
+            width: 200px;
+            font-family:'Courier New', Courier, monospace;
+            font-size:15px;
+            
+        }
+    </style>
+    <div class="Title">
+        <h3> Shopping website</h3>  
+        
+     </div>
+     <div class="first">
+        <h1> List of products</h1>
+        <p> This is the list of the products available </p>
+        <button> Read more</button>
+    </div>
+    <br><br>
+    
+    <div class="second">
+      <h1> Classes </h1>
+      <p> This are the different classes
+      </p>
+      <br><br>
+
+      <div class="Images">
+      <div class="Image1">
+    
+     <h5> Basic Technical Writing</h5>
+     <p>This course focuses on understanding basics of techical writing</p>
+     <button>view</button>
+    
+     <div class="Image2">
+     <h5> Confluence Advanced</h5>
+     <p>This course focuses on the documentation type content is easy to manage and consume </p>
+     <button>view</button>
+     </div>
+    
+     <div class="Image3">
+        <h5>Confluence Basic</h5>
+        <p> This course guide users to create their own easy to use and well-formatted content</p>
+     </div>
+
+
+      </div>
+    </div>
+    </div>
+</body>
+<html>
